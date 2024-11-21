@@ -1,0 +1,1 @@
+Star(color: .red)
